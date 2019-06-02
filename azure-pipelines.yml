@@ -12,6 +12,8 @@ variables:
   # Web app name
   webAppName: 'java-spring-boots'
 
+  azureSubscription: 'Free Trial (d8e32a54-b0bd-4b52-af07-b6ee12fc372b)'
+
   # Agent VM image name
   vmImageName: 'ubuntu-latest'
 
