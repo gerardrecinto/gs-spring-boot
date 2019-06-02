@@ -15,7 +15,6 @@ steps:
     mavenPomFile: 'app/pom.xml'
     options: '-Xmx3072m'
     publishJUnitResults: false
-    codeCoverageToolOption: 'Cobertura'
     javaHomeOption: 'JDKVersion'
     mavenVersionOption: 'Default'
     mavenAuthenticateFeed: false
